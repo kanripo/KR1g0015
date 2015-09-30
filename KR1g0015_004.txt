@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 五經蠡測
-#+DATE: 2015-09-23 09:41:04
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:18:58.601074
+#+PROPERTY: ID KR1g0015
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1g0015_WYG_004-1a>¶
 欽定四庫全書¶
 　五經蠡測卷四　　　　明　蔣悌生　撰¶
@@ -884,4 +886,3 @@
 　¶
 　¶
 　五經蠡測卷四¶
-
